@@ -1,6 +1,6 @@
-# 🧳 Tourism Demand Forecasting
+# Tourism Demand Forecasting
 
-An interactive [Streamlit](https://streamlit.io) app that forecasts tourism demand (visitor arrivals, bookings, etc.) from historical time-series data. Upload your own CSV or explore a built-in synthetic dataset, compare forecasting methods, and inspect validation accuracy, training curves, and performance benchmarks.
+An interactive Streamlit app that forecasts tourism demand (visitor arrivals, bookings, etc.) from historical time-series data. Upload your own CSV or explore a built-in synthetic dataset, compare forecasting methods, and inspect validation accuracy, training curves, and performance benchmarks.
 
 ## Features
 
